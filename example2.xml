@@ -1,0 +1,27 @@
+<annotation>
+    <folder>OIDv6</folder>
+    <filename>annotation2.jpg</filename>
+    <source>
+        <database>Open Image Database V6</database>
+        <annotation>Open Image Database V6</annotation>
+        <image>xclick</image>
+    </source>
+    <size>
+        <width>600</width>
+        <height>465</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>dog</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>1</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>46.9998</xmin>
+            <ymin>83.999925</ymin>
+            <xmax>576.0</xmax>
+            <ymax>433.999845</ymax>
+        </bndbox>
+    </object>
+</annotation>
